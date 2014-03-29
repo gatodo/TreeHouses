@@ -10,7 +10,7 @@
 <script>
 window.fbAsyncInit = function() {
     FB.init({
-            appId      : '{your-app-id}',
+            appId      : '260982037407178',
             status     : true, // check login status
             cookie     : true, // enable cookies to allow the server to access the session
             xfbml      : true  // parse XFBML
@@ -69,6 +69,8 @@ function testAPI() {
 <!--
 Below we include the Login Button social plugin. This button uses the JavaScript SDK to
 present a graphical Login button that triggers the FB.login() function when clicked. -->
+
+Your Facebook id is: <output name="id"></output>
 
 <fb:login-button show-faces="true" width="200" max-rows="1"></fb:login-button>
 

@@ -7,7 +7,6 @@
 <body>
 
 <div id="fb-root"></div>
-<<<<<<< HEAD
 <script>
 window.fbAsyncInit = function() {
     FB.init({
@@ -66,9 +65,6 @@ function testAPI() {
            });
 }
 </script>
-=======
-<script  src="myscripts.js"></script>
->>>>>>> FETCH_HEAD
 
 <!--
 Below we include the Login Button social plugin. This button uses the JavaScript SDK to

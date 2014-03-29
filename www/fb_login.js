@@ -53,4 +53,8 @@ function testAPI() {
     FB.api('/me', function(response) {
            console.log('Good to see you, ' + response.name + '.');
            });
+    
+    FB.api('/me?fields=id', function(response) {
+           document.getElementById("idout").innerHTML = response.id;
+           });
 }

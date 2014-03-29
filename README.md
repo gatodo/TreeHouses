@@ -1,4 +1,4 @@
 TreeHouses
 ==========
 
-A social network for house and ball culture
+TreeHouses will act as a social network catering to the specific needs and micro-political community structure of the Trans community.

@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Tr33Haus - A social network for houses and families of choice</title>
+<link rel="shortcut icon" href="./favicon.ico" />
 </head>
 
 <body>

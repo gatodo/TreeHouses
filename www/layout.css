@@ -40,12 +40,12 @@ ul.horizontal {
 #page {
   width: 800px;
   text-align:center;
+  padding:15% 0;
 }
 
 #page p {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 20pt;
-  margin-top:200px;
 }
 
 #footer_wrapper {

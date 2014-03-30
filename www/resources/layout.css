@@ -7,7 +7,8 @@ body {
 }
 
 #sidebar_left {
-
+  width: 400px;
+  height: 100%;
 }
 
 #titlebar_wrapper {

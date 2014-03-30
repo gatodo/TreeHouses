@@ -1,3 +1,14 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#sidebar_left a {
+  color: white;
+  border-bottom: solid 1px #2e2e2e;
+  padding: 1em;
+  display: block;
+}
+
 .brown {
   background-color: #9f390d;
 }
@@ -8,10 +19,6 @@
 
 .blue {
   background-color: #baecff;
-}
-
-#sidebar_left a {
-  color: white;
 }
 
 /* 

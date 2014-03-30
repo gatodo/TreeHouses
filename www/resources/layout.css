@@ -7,12 +7,9 @@ body {
   margin: 0px auto;
   padding: 10px 0px;
   width: 100%;
-  /* height: 100%; */
-  /* position: absolute; */
 }
 
 #titlebar {
-  /* width: 800px; */
   height: 30px;
   margin: auto;
   padding: 0 2em;
@@ -38,9 +35,7 @@ body {
   width: 100%;
   min-width: 200px;
   height: 100%;
-  /* margin-top: 50px; */
   position: relative;
-  /* display: inline-block; */
 }
 
 #sidebar_left a {
@@ -57,7 +52,6 @@ body {
 }
 
 #splash p {
-  /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
   font-size: 20pt;
 }
 
@@ -68,16 +62,10 @@ body {
   text-align: center;
   padding: 60px 0;
   background-color: white;
-  /* position: absolute; */
-  /* margin: 0 auto; */
-  /* left: 300px; */
-  /* display: inline-block; */
-  /* margin: 0 auto; */
-  /* position: relative; */
 }
 
 #graph {
-
+  /* Nothing here yet */
 }
 
 #sidebar_right {
@@ -93,8 +81,6 @@ body {
 #sidebar_right a {
   padding: 2em;
   display: block;
-  border-bottom: solid 1px white;
-  font-weight: bold;
 }
 
 #footer_wrapper {

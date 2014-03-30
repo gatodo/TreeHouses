@@ -11,20 +11,6 @@ body {
   display: table-column;
 }
 
-#sidebar_left {
-  width: auto;
-  height: 100%;
-  /* margin-top: 50px; */
-  /* position: absolute; */
-  display: inline-block;
-}
-
-#sidebar_left a {
-  padding: 1em;
-  display: block;
-  width: 150px;
-}
-
 #titlebar_wrapper {
   margin: 0px auto;
   padding: 10px 0px;
@@ -40,29 +26,40 @@ body {
   padding: 0 1em;
 }
 
-#logo {
-  float: left;
-}
-
 #titlebar p {
   text-align: right;
   margin: 0;
 }
 
-ul.horizontal {
-  display: table-column;
-  list-style-type: none;
+#logo {
+  float: left;
+}
+
+#sidebar_left {
+  width: auto;
+  height: 100%;
+  /* margin-top: 50px; */
+  position: absolute;
+  display: inline-block;
+}
+
+#sidebar_left a {
+  padding: 1em;
+  display: block;
+  /* width: 150px; */
 }
 
 #page {
   width: 800px;
   height: 800px;
-  text-align: center;
+  /* text-align: center; */
   /* padding: 15% 0; */
   background-color: gray;
   position: fixed;
   /* left: 300px; */
-  display: inline-block;
+  /* display: inline-block; */
+  margin: 0 auto;
+  position: relative;
 }
 
 #page p {

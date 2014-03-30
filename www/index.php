@@ -1,3 +1,7 @@
+<?php
+    require("./cig-bin/landingauth.php");
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -18,6 +22,7 @@
       </p>
       <a>Login with Facebook</a>
       <a>Create an Account</a>
+      <?php echo helloIam ?>
     </div>
     <div id="footer_wrapper" class="gray">
       <div id="footer" class="center">

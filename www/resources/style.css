@@ -10,6 +10,10 @@
   background-color: #baecff;
 }
 
+#sidebar_left a {
+  color: white;
+}
+
 /* 
  * brown: #9f390d
  * gray:  #343435

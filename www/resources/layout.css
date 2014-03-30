@@ -68,3 +68,7 @@ ul.horizontal {
   margin: auto;
   padding: 0 3em;
 }
+
+.button {
+  padding: 1em;
+}
